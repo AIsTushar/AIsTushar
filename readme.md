@@ -89,4 +89,22 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+<h3 align="left">🛠 Summary cards of my activities</h3>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIsTushar&theme=transparent)
+
+</div>
+
+<div align="center" style="display: flex;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIsTushar&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIsTushar&theme=transparent" />
+</div>
+
+<div align="center" style="display : flex">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIsTushar&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIsTushar&theme=transparent&utcOffset=8"/>
+</div>
+
 ###
