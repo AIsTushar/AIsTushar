@@ -93,6 +93,16 @@
 
 ###
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AIsTushar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+###
+
 <h3 align="left">🛠 Summary cards of my activities</h3>
 <div align="center">
 
