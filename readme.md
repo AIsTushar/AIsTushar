@@ -75,6 +75,14 @@
 
 ###
 
+# Contribution:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake.svg" />
+</picture>
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -84,10 +92,6 @@
 </div>
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 <h3 align="left">🛠 Summary cards of my activities</h3>
 <div align="center">
