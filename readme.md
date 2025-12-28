@@ -87,9 +87,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AIsTushar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=AIsTushar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AIsTushar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AIsTushar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
